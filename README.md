@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-just exercise
+just exercise 2
